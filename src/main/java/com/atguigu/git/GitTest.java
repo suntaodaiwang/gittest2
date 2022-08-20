@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("hello master");
         System.out.println("push testqq");
         System.out.println("不提交本地库");
+        System.out.println("pull");
     }
 }
